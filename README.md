@@ -1,11 +1,11 @@
-[spanish](https://github.com/SofiDevO/alurageek-API/tree/spanish)
+
 
 ## Deploy JSON Server to Vercel
 
 A template for deploying [JSON Server](https://github.com/typicode/json-server) on [Vercel](https://vercel.com), allowing you to run a fake REST API online 🐣!
 
 Demo from this repository: 
-https://alurageek-api.vercel.app/
+
 ### How to use (resume)
 
 1. Click "**Use this template**" or clone this repository.
@@ -18,35 +18,14 @@ https://alurageek-api.vercel.app/
 ## Default `db.json`
 
 ```json
-{
- "product": [
-        {
-            "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
-            "name": "Trooper mug",
-            "price": "$60.00",
-            "description": "Trooper helmet mug",
-            "category": "starwars",
-            "id": 1
-        },
-        {
-            "img": "https://cdn1.coppel.com/images/catalog/mkp/1773/5000/17733590-1.jpg",
-            "name": "Vader Funko",
-            "price": "$60.00",
-            "description": "Collectible Funko of Darth Vader",
-            "category": "starwars",
-            "id": 2
-        }
- ]
-}
+
 ```
 
 ## Build It Yourself
 
-If you'd like to create the project from scratch, I have a [YouTube video Tutorial (Spanish) that guides you through deploying your own fake API with db-json and Vercel.](https://www.youtube.com/channel/UC36_js-krsAHAEAWpEDhHtw) 
-
 ### Step 1
 
-Create a new repository, for example, **alurageek-API**. Then clone that empty repository.
+Create a new repository,  Then clone that empty repository.
 
 ### Step 2
 
